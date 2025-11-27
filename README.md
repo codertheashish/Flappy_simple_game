@@ -77,7 +77,7 @@ After Game Over:
 
 ## 📦 Installation
 
-### **1️⃣ Install Python( )**
+### **1️⃣ Install Python(if not installed)**
 
 ### **2️⃣ Install Pygame**
 
@@ -88,7 +88,7 @@ pip install pygame
 ### **3️⃣ Clone the Project**
 
 ```bash
-https://github.com/yourusername/FlappyBirdGame.git
+https://github.com/codertheashish/Flappy_simple_game.git
 ```
 
 ### **4️⃣ Run the Game**
